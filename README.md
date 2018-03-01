@@ -1,1 +1,1 @@
-# UIUC-CS440-ECE448-Fall2017
+Prof Svetlana Lazebnik
